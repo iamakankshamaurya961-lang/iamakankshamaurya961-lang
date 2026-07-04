@@ -22,14 +22,20 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 </p>
 
+# 📊 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/sizu_cruise?theme=dark&font=Karma&ext=heatmap)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=iamakankshamaurya961-lang&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=iamakankshamaurya961-lang&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamakankshamaurya961-lang&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 Codeforces Stats:
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sizu_cruise&theme=dark)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamakankshamaurya961-lang&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
